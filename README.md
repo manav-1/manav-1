@@ -24,8 +24,6 @@ I am a Full Stack Developer with over 2 years of experience in building scalable
 
 - **Technical Head**, Placement Cell (Start@KMV) (2021 – 2022)
   - Engineered a mailing system that fostered better communication between the college and companies, contributing to a 20% increase in successful placements.
-  - Designed and managed the website and student data registration for Internship Fair 2021, facilitating the participation of over 2000 students.
-
 - **Poster Paper Presentation**, Indraprastha College for Women, DU (2020)
   - Secured 2nd position with a poster on Machine Learning Applications in Breast Cancer Diagnosis.
 
